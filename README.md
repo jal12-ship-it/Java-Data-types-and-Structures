@@ -7,7 +7,7 @@ Data types in programming languages helps the compiler or the interpreter unders
 1. Primitive Data Types
 2. Non-Primitive Data Types
 
-![Data types in Java](https://static.javatpoint.com/images/java-data-types.png)
+![Data types in Java](https://1.bp.blogspot.com/-65HLAHaShcY/XZ3iXu324eI/AAAAAAAAAPY/EX6ZZyWxZZwqJX9sUtL5dxMGm8PzVsQWgCEwYBhgL/s1600/datatype.png)
 
 ### Primitive Data Type
 
@@ -157,6 +157,7 @@ int Array_Name = new int[7];
 ## Data Structures in Java
 
 Data structure is a way of storing and organizing data. Data structure provide a way to process and store data efficiently.
+
 ![Data Structers in Java](https://d1m75rqqgidzqn.cloudfront.net/wp-data/2022/07/22114048/image-6.png)
 
 1. Linear Data Structures: It is a single level data structure in which all elements are arranged in sequential order.  
@@ -249,10 +250,15 @@ A major disadvantage of a classical queue is that a new element can only be inse
 
 There are two popular variations of queues:
 
-1. Circular Queues- Circular Queues are the queues implemented in circle form rather than a straight manner. Circular queues overcome the problem of unutilized space in the linear queues that we implement as arrays.
+##### Circular Queues
+
+Circular Queues are the queues implemented in circle form rather than a straight manner. Circular queues overcome the problem of unutilized space in the linear queues that we implement as arrays.
 
 ![Circular Queues](https://static.javatpoint.com/ds/images/circular-queue.png)
-2. Deque- A double-ended queue or a deque is a refined queue in which can add or remove the elements at either end but not in the middle.
+
+##### Deque
+
+A double-ended queue or a deque is a refined queue in which can add or remove the elements at either end but not in the middle.
 
 ![Doubly ended Queues](https://www.tutorialandexample.com/wp-content/uploads/2019/09/Deque-in-Java.png)
 
@@ -306,6 +312,7 @@ Terms used in tree data structure:
 ##### Binary Tree
 
 Binary tree is the type of tree in which each parent can have at most two children. The children are referred to as a left child or right child. This is one of the most commonly used trees. When certain constraints and properties are imposed on the Binary tree it results in a number of other widely used trees like BST (Binary Search Tree), AVL tree, RBT tree etc.
+
 ![Binary Tree structure](https://examples.javacodegeeks.com/wp-content/uploads/2019/12/binary-search-tree-768x528.jpg.webp)
 
 ##### Binary Search Tree
