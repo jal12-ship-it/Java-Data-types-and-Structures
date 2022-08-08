@@ -237,8 +237,6 @@ Common operations on queue are:
 
 1. Enqueue()- Adding elements at the rear end of the queue.
 2. Dequeue()- Deleting elements from the front end of the queue.
-3. Peekfirst()-
-4. Peeklast()-
 
 ![Queues in Java](https://jenkov.com/images/java-collections/java-queue.png)
 
@@ -254,13 +252,13 @@ There are two popular variations of queues:
 
 Circular Queues are the queues implemented in circle form rather than a straight manner. Circular queues overcome the problem of unutilized space in the linear queues that we implement as arrays.
 
-![Circular Queues](https://static.javatpoint.com/ds/images/circular-queue.png)
+![circular-queue](https://user-images.githubusercontent.com/60174007/183363568-a366e84c-2b05-4024-9219-e89e9a2ed34f.png)
 
 ##### Deque
 
 A double-ended queue or a deque is a refined queue in which can add or remove the elements at either end but not in the middle.
 
-![Doubly ended Queues](https://www.tutorialandexample.com/wp-content/uploads/2019/09/Deque-in-Java.png)
+![Deque-in-Java](https://media.geeksforgeeks.org/wp-content/uploads/anod.png)
 
 #### Linked List
 
